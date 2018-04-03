@@ -1,2 +1,3 @@
 # hello-world
-Learn Git Repository
+
+my name is shannon. I am 33 years old and teaching myself how to code.
